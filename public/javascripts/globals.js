@@ -1,0 +1,1 @@
+exports.GAME_NAME = 'Cards of High School';
